@@ -1,4 +1,4 @@
-# HANYUAI - 免费在线 AI 图转 3D 模型生成器 (2D to 3D)
+# 免费在线 AI 图转 3D 模型生成器 (2D to 3D)
 
 ![AI Powered](https://img.shields.io/badge/Powered_by-AI-orange?style=for-the-badge)
 ![Free Tool](https://img.shields.io/badge/Pricing-100%25_Free-brightgreen?style=for-the-badge)
